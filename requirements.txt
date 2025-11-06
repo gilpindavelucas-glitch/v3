@@ -1,0 +1,6 @@
+streamlit>=1.20
+docx2txt
+PyPDF2
+pandas
+openpyxl
+dateparser
